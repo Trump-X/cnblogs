@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\WpfApp4\Sample\bin\Debug\Sample.exe.config
+C:\Users\Administrator\source\repos\WpfApp4\Sample\bin\Debug\Sample.exe
+C:\Users\Administrator\source\repos\WpfApp4\Sample\bin\Debug\Sample.pdb
+C:\Users\Administrator\source\repos\WpfApp4\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WpfApp4\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WpfApp4\Sample\obj\Debug\Sample.exe
+C:\Users\Administrator\source\repos\WpfApp4\Sample\obj\Debug\Sample.pdb
